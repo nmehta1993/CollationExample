@@ -13,7 +13,7 @@ import java.util.List;
  * @author Nitesh
  */
 public class AccessElementsFromArrayListExample {
-     public static void main(String[] args) {
+    public static void main(String[] args) {
         List<String> topCompanies = new ArrayList<>();
 
         // Check if an ArrayList is empty
